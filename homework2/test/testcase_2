@@ -1,0 +1,10 @@
+int main () {
+	int a,d,my_result;
+	float b,c;
+	a = 0x1dFe;
+	b= 1.5E-4;
+	c = a +b;
+	d = c*a+b;
+	my_result = d*0x54;
+	return my_result;
+}
