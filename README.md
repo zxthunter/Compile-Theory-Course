@@ -1,2 +1,2 @@
 # Compile-Theory-Course
-A simple C compiler based on flex & biso.
+A simple C compiler based on flex & bison.
